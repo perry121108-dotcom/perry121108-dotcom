@@ -1,18 +1,20 @@
 # Perry Wang — AI Application Builder
 
 I build AI-powered apps and automation workflows, and ship them with tests, CI, and live demos.
+我開發 AI 應用程式與自動化工作流，每個專案都附帶測試、CI 與線上 Demo。
 
-Currently looking for: **QA Automation · AI Application Testing · AI Workflow Automation · Junior AI Dev**
+Currently looking for / 目前找尋：**QA Automation · AI Application Testing · AI Workflow Automation · Junior AI Dev**
 
 ---
 
-## Featured Projects
+## Featured Projects / 作品集
 
 ### [WARDROBE AI](https://github.com/perry121108-dotcom/Wardrobe-AI) — AI Outfit Recommendation PWA
 
 **[Live Demo](https://wardrobe-ai-pwa-v2.onrender.com)** · [API Health](https://wardrobe-ai-pwa-v2.onrender.com/api/health) · [DB Health](https://wardrobe-ai-pwa-v2.onrender.com/api/db-health)
 
 > Upload clothes → AI recommends outfits by color season, occasion, silhouette, and material.
+> 上傳衣物 → AI 依色季、場合、剪裁、材質推薦穿搭組合。
 
 ![CI](https://img.shields.io/badge/CI-passing-brightgreen) ![Tests](https://img.shields.io/badge/tests-10%20passing-brightgreen) ![Deploy](https://img.shields.io/badge/deploy-Render-blue)
 
@@ -23,6 +25,7 @@ Stack: `Expo Web` `Node.js` `Express` `Supabase/PostgreSQL` `JWT` · Includes: D
 ### [clothes AI](https://github.com/perry121108-dotcom/clothes-ai) — Daily Outfit Content Automation
 
 > AI generates outfit content → renders cards + model images → delivers via Telegram. Runs on a daily schedule.
+> AI 每日自動生成穿搭內容 → 渲染卡片與模特圖 → 透過 Telegram 推送。
 
 ![Tests](https://img.shields.io/badge/tests-65%20passing-brightgreen) ![CI](https://img.shields.io/badge/CI-passing-brightgreen)
 
@@ -33,20 +36,24 @@ Stack: `Python` `Playwright` `pytest` `Telegram Bot API` · Real generated image
 ### [ai_agent_sop_toolkit](https://github.com/perry121108-dotcom/ai_agent_sop_toolkit) — AI Dev SOP Scaffolding CLI
 
 > `pip install` → generates project rules, task tracking, agent roles, and handoff docs for Cursor / Claude Code projects.
+> 安裝後執行 `ai-sop init`，5 秒內在任何新專案建立完整 AI 協作 SOP 結構。
 
-Stack: `Python` `CLI` · Designed for AI-assisted development workflows
+![CI](https://img.shields.io/badge/CI-passing-brightgreen) ![Version](https://img.shields.io/badge/version-1.3.0-blue)
+
+Stack: `Python` `Click` `CLI` · Bilingual docs (中文 / English)
 
 ---
 
 ### [TaskPilot Claude](https://github.com/perry121108-dotcom/taskpilot-claude) — AI Workspace for Claude CLI
 
 > Electron desktop app for managing Claude CLI sessions with persistent history and SOP-driven task execution.
+> 桌面 AI 工作區，管理 Claude CLI 工作階段、持久化歷史記錄與 SOP 驅動的任務執行。
 
 Stack: `Electron` `React` `SQLite` `node-pty`
 
 ---
 
-## Tech & Tools
+## Tech & Tools / 技術工具
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
@@ -60,10 +67,13 @@ Stack: `Electron` `React` `SQLite` `node-pty`
 
 ---
 
-## Working Style
+## Working Style / 工作方式
 
 I use AI agents to accelerate development, but verify everything with tests, CI, production health checks, and deployment logs.
 Every project I ship includes a README strangers can follow, demo URLs, and reproducible setup.
+
+我用 AI 助手加速開發，但每個環節都自己驗證：測試套件、CI、線上端點健康檢查、部署日誌。
+每個作品都有完整 README、Demo 連結與可重現的環境設定，讓陌生人也能跑起來。
 
 ---
 
