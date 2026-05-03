@@ -53,6 +53,19 @@ Stack: `Electron` `React` `SQLite` `node-pty`
 
 ---
 
+### [微觀神聖領域：免疫風暴](https://github.com/perry121108-dotcom/Microcosmic-Divine-Realm_Immune-Storm) — Roguelike 卡牌構築遊戲
+
+![Status](https://img.shields.io/badge/狀態-開發中-orange) ![CI](https://github.com/perry121108-dotcom/Microcosmic-Divine-Realm_Immune-Storm/actions/workflows/unity-ci.yml/badge.svg) ![Unity](https://img.shields.io/badge/Unity-2022.3-black?logo=unity)
+
+> 非對稱雙陣營 Roguelike 卡牌構築遊戲。玩家指揮免疫系統對抗病原體，在 5×2 戰術棋盤上進行卡牌戰鬥。
+> Asymmetric Roguelike deck-builder — command the immune system against pathogens on a 5×2 formation board.
+
+**目前進度 / Progress：** P4 Battle Presentation（4.7 / 4.9）— 戰鬥引擎 ✅ · 卡牌系統 ✅ · HUD ✅ · 陣型 UI ✅
+
+Stack: `Unity 2022.3` `C#` `ScriptableObjects` · Multi-agent Builder–Tester workflow · GitHub Actions CI
+
+---
+
 ## Tech & Tools / 技術工具
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -64,6 +77,8 @@ Stack: `Electron` `React` `SQLite` `node-pty`
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=flat)
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
 
 ---
 
